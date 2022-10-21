@@ -1,19 +1,24 @@
 # Neural_Network_Charity_Analysis
 
-For this part of the Challenge, you’ll write a report on the performance of the deep learning model you created for AlphabetSoup.
+## Overview of the Analysis
 
-The report should contain the following:
+For this project we used Machine learning and Neural Networks, one feature used was to create a binary classifier which will help to predict if the applicant will be funded by the charitable organization, Alphabet Soup, will be successful. We had a dataset that contained various measures on over 30,000 organizations that have received funding from Alphabet Soup. 
 
-Overview of the analysis: Explain the purpose of this analysis.
+Steps used for Analysis 
+* preprocessing the data from the neural network
+* Compile, Train and Evaluate the Model
+* Optimizing the Model
 
-Results: Using bulleted lists and images to support your answers, address the following questions.
+## Results
 
-Data Preprocessing
-What variable(s) are considered the target(s) for your model?
-What variable(s) are considered to be the features for your model?
-What variable(s) are neither targets nor features, and should be removed from the input data?
-Compiling, Training, and Evaluating the Model
-How many neurons, layers, and activation functions did you select for your neural network model, and why?
-Were you able to achieve the target model performance?
-What steps did you take to try and increase model performance?
-Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+### Data Preprocessing
+* What variable(s) are considered the target(s) for your model?
+* What variable(s) are considered to be the features for your model?
+* What variable(s) are neither targets nor features, and should be removed from the input data?
+
+### Compiling, Training, and Evaluating the Model
+* How many neurons, layers, and activation functions did you select for your neural network model, and why?
+* Were you able to achieve the target model performance?
+* What steps did you take to try and increase model performance?
+
+## Summary
